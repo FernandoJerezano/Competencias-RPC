@@ -1,7 +1,7 @@
 
-// Problema:	  Urban Map
-// Autor:     	FernandoJerezano
-// Fecha:	      09-Septiembre-2017
+// Problema:	Urban Map
+// Autor:	FernandoJerezano
+// Fecha:	09-Septiembre-2017
 import java.io.*;
 
 class F{
