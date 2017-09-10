@@ -1,6 +1,6 @@
 // Problema:	Electric cabling
-// Autor:     FernandoJerezano
-// Fecha:     09-Septiembre-2017
+// Autor:     	FernandoJerezano
+// Fecha:     	09-Septiembre-2017
 import java.io.*;
 
 class G{
