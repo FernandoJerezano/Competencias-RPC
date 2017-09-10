@@ -29,7 +29,7 @@ void prec(){
 	vec.push_back(0);
 	vec.push_back(1);
 	vec.push_back(2);
-	
+
 	for(int i=4;vec.size()<=10001;i++){
 		if(is_hulam(i)){
 			vec.push_back(i);
