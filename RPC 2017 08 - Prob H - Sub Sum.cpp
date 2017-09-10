@@ -1,6 +1,6 @@
 // Problema:	Sub Sum
-// Autor:		  FernandoJerezano
-// Fecha:		  02-Septiembre-2017
+// Autor:	FernandoJerezano
+// Fecha:	02-Septiembre-2017
 #include <iostream>
 #include <bits/stdc++.h>
 #define MAX_N 100005
