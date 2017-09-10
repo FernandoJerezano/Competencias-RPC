@@ -1,6 +1,6 @@
 // Problema:	Pythagorean triple
-// Autor:     FernandoJerezano
-// Fecha:     09-Septiembre-2017
+// Autor:     	FernandoJerezano
+// Fecha:	09-Septiembre-2017
 #include <iostream>
 #include <bits/stdc++.h>
 
