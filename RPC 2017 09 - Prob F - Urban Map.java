@@ -32,7 +32,6 @@ class F{
 			c = Integer.parseInt(br.readLine());
 			R = r;
 			C = c;
-
 			for(int i=0;i<r;i++){
 				mat[i] = br.readLine().toCharArray();
 			}
