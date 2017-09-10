@@ -2,7 +2,7 @@
 // Autor:	FernandoJerezano
 // Fecha:	02-Septiembre-2017
 import java.io.*;
-
+	
 class talkingp{
 	
 	public static void main(String[]args)throws IOException{
