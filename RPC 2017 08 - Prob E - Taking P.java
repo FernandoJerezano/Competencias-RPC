@@ -1,6 +1,6 @@
 // Problema:	Talking P
-// Autor:		  FernandoJerezano
-// Fecha:		  02-Septiembre-2017
+// Autor:	FernandoJerezano
+// Fecha:	02-Septiembre-2017
 import java.io.*;
 
 class talkingp{
