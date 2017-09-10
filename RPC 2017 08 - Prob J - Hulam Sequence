@@ -7,7 +7,7 @@
 using namespace std;
 vector<bool>hulam;
 vector<int>vec;
-
+	
 bool is_hulam(int n){
 	
 	int t = n/2;
