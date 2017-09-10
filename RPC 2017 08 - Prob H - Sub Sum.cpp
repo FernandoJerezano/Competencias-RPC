@@ -35,7 +35,7 @@ bool sum(){
 		if(i<=n)
 			sum+=arr[i];
 	}
-	
+
 	if(sum==S){
 		ini = fin = n;
 	}
