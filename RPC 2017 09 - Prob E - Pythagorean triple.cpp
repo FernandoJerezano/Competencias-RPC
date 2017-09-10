@@ -18,7 +18,6 @@ int main(){
 			for(int j=i;j<=N;j++){
 				for(int k=j;k<=N;k++){
 					//printf("%d %d = %d\n",i,j,k);
-					
 					if((i*i+j*j)==k*k){
 						cont++;
 					}
