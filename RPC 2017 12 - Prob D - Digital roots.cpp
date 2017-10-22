@@ -1,6 +1,6 @@
 // Problema: Digital roots
 // Autor:    FernandoJerezano
-// Fecha:    21-Octubre-2018
+// Fecha:    21-Octubre-2017
 #include <stdio.h>
 #include <iostream>
 
